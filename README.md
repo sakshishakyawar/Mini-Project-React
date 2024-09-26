@@ -1,3 +1,5 @@
+🌤️ Weather Web Application (Mini Project)
+
 This is my first mini project built while learning React. It is a simple weather web application that provides current weather information for a selected location. The application is developed using React and styled with Material-UI components, offering a clean and modern user interface.
 
 Key features:
