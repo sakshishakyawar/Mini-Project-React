@@ -3,7 +3,9 @@ This is my first mini project built while learning React. It is a simple weather
 Key features:
 
 🌡️ Displays current weather conditions such as temperature, humidity.
+
 📱 User-friendly interface with responsive design for different screen sizes.
+
 🌍 Integrates a weather API to fetch real-time weather data.
 
 This project helped me get hands-on experience with React, working with APIs, and using Material-UI for design.
